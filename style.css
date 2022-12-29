@@ -1,0 +1,75 @@
+/* .header {
+    background-color:darkslategrey;
+    padding: 50px;
+}
+
+.header-text {
+    padding: 100px;
+    color: white;
+    flex-wrap: nowrap;
+}
+
+.header-img {
+    width: 200px;
+}
+
+.body {
+    margin-top: 50px;
+}
+
+.footer {
+    background-color: darkslategrey;
+    margin-top: 400px;
+}
+
+.footer-text {
+    padding: 50px;
+    color: white;
+} */
+
+.hero {
+    background-image: url("img/hero.png");
+    height: 250px;
+    background-size: cover;
+}
+
+.profile-picture {
+    height: 150px;
+    border-radius: 175px;
+    margin-top: 150px;
+}
+
+.text {
+    margin-top: 25px;
+    line-height: 0.9;
+    width: 400px;
+}
+
+.dummy-text {
+    width: 50px;
+}
+
+.fa-brands {
+    color: rgb(196, 15, 15);
+}
+
+.fa-bars {
+    color: white;
+}
+
+/* .offcanvas-title {
+    background-image: url("./img/offcanvas.png");
+} */
+
+/* .offcanvas {
+    background-image: url("./img/blob.png");
+    background-size: contain;
+} */
+
+.offcanvas {
+    background-color: rgb(240, 240, 240);
+}
+
+body {
+    background-color: blanchedalmond;
+}
